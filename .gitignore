@@ -1,0 +1,3 @@
+# ignore Ipython checkpoints in any subdirectory
+*/.ipynb_checkpoints/
+
